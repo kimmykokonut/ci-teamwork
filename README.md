@@ -4,6 +4,12 @@
 
 [Teamwork](https://www.teamwork.com/product/) is a hosted project management tool. Its built-in reporting only presents time-log data in a flat format, which makes it difficult to use for post-project time analysis. The `Teamwork Time Report` allows you to create a hierarchical project time data report that shows individual and aggregate task time, and allows for filtering by date, keyword, or hours logged.
 
+![Screenshot 2024-06-06 at 1 30 08 PM](https://github.com/kimmykokonut/ci-teamwork/assets/55254544/a7faacba-4d70-4423-b971-0d8123272ce0)
+
+![Screenshot 2024-06-06 at 1 33 08 PM](https://github.com/kimmykokonut/ci-teamwork/assets/55254544/2a8b0c16-e721-415d-b670-075d71d2396b)
+
+![Screenshot 2024-06-06 at 1 33 32 PM](https://github.com/kimmykokonut/ci-teamwork/assets/55254544/e79256c6-c899-46eb-b8ce-c93d5045819d)
+
 ## About the API We Use
 
 This application makes use of version 1 of the Teamwork API. To use this application, you will need an active Teamwork account with API access and a valid API token. For more information on Teamwork's API, please see their [Developer Documentation](https://developer.teamwork.com/).
